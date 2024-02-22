@@ -99,8 +99,8 @@ export default function () {
                     "https://raw.githubusercontent.com/fandongtongxue/sorafm/main/qrcode_for_gh_ea31060c8dbb_258.jpg"
                   }
                   alt="qrcode"
-                  width={"258"}
-                  height={"258"}
+                  width={"128"}
+                  height={"128"}
                   className="rounded-md"
                 />
               </p>
