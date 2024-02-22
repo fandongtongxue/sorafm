@@ -80,7 +80,7 @@ export default function () {
               </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
-              <div className="font-inter font-medium">信任</div>
+              <div className="font-inter font-medium">感谢</div>
               <a
                 href="https://sora.xiaobingkj.com"
                 target="_blank"
