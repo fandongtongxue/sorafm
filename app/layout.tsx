@@ -9,12 +9,12 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    template: "%s, Made with Sora AI Video Generator | Sora.FM",
-    default: "Sora AI Video Generator | Sora.FM",
+    template: "%s, 用Sora制作视频",
+    default: "Sora AI视频制作",
   },
-  description: "Sora AI Video Generator is used to make AI Video.",
+  description: "Sora是用来制作视频的",
   keywords:
-    "sora,sora fm,sora ai,openai sora,video ai,ai video,sora video,ai video generator,text to video,sora ai video,sora ai video generator",
+    "sora,sora fm,sora ai,openai sora,video ai,ai video,sora video,ai video generator,text to video,sora ai video,sora ai video generator, 范小兵",
 };
 
 export default function RootLayout({
