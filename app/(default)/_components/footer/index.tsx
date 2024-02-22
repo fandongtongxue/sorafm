@@ -7,10 +7,10 @@ export default function () {
         <div className="lg:flex lg:flex-row lg:justify-between">
           <div>
             <a href="https://sora.xiaobingkj.com" className="inline-block max-w-full">
-              Sora.Video
+              SoraAI
             </a>
             <p className="font-inter mt-4 max-w-[350px] text-base font-light text-gray-500">
-              Sora AI Video Generator
+              Sora AI 视频生成
             </p>
             <div className="mb-8 mt-6 flex flex-row">
               <Social />
@@ -18,13 +18,13 @@ export default function () {
           </div>
           <div className="flex grow flex-row flex-wrap lg:mx-10 lg:flex-nowrap lg:justify-center">
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
-              <div className="font-inter font-medium">INTRODUCTION</div>
+              <div className="font-inter font-medium">介绍</div>
               <a
                 href="https://openai.com/sora"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                What's Sora
+                Sora是什么？
               </a>
               <a
                 href="https://platform.openai.com/docs/overview"
@@ -38,55 +38,55 @@ export default function () {
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora Showcases
+                Sora 视频示例
               </a>
               <a
                 href="https://platform.openai.com/docs/guides/prompt-engineering"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora Prompts
+                Sora 提示词
               </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">FRIENDS</div>
               <a
-                href="https://gpts.works"
+                href="https://giteer.app.xiaobingkj.com"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                GPTs Works
+                Giteer For 码云
               </a>
               <a
-                href="https://gptalk.one"
+                href="https://screencase.app.xiaobingkj.com"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                GPTalk
+                屏幕套壳
               </a>
               <a
-                href="https://aiwallpaper.shop"
+                href="https://subscribe.app.xiaobingkj.com"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                AI Wallpaper
+                订阅酱
               </a>
               <a
-                href="https://aicover.design"
+                href="https://cloud.app.xiaobingkj.com"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                AI Cover
+                集云
               </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
-              <div className="font-inter font-medium">CREDIT TO</div>
+              <div className="font-inter font-medium">信任</div>
               <a
                 href="https://sora.xiaobingkj.com"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora.Video
+                SoraAI
               </a>
             </div>
           </div>
@@ -99,8 +99,8 @@ export default function () {
                     "https://raw.githubusercontent.com/fandongtongxue/sorafm/main/qrcode_for_gh_ea31060c8dbb_258.jpg"
                   }
                   alt="qrcode"
-                  width={"128"}
-                  height={"128"}
+                  width={"200"}
+                  height={"200"}
                   className="rounded-md"
                 />
               </p>
@@ -112,7 +112,7 @@ export default function () {
           <p className="font-inter lg: text-center text-sm text-gray-500">
             © Copyright 2024.{" "}
             <a href="https://sora.xiaobingkj.com" target="_blank" className="text-primary">
-              Sora.Video
+              范小兵
             </a>{" "}
             All rights reserved.
           </p>

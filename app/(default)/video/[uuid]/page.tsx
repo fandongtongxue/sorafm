@@ -18,8 +18,8 @@ export async function generateMetadata({
   }
 
   return {
-    title: `AI Video Showcase`,
-    description: `${description} Made with Sora AI Video Generator | Sora.FM`,
+    title: `AI 视频示例`,
+    description: `${description} 用SoraAI制作视频`,
     alternates: {
       canonical: `${process.env.WEB_BASE_URI}/video/${params.uuid}`,
     },
@@ -34,10 +34,10 @@ export default async function ({ params }: { params: { uuid: string } }) {
     <div className="mx-auto mt-4 max-w-full sm:mt-4 sm:px-0 lg:px-0">
       <div className="relative isolate overflow-hidden bg-gray-900 px-2 py-12 shadow-2xl sm:rounded-3xl sm:px-24 xl:py-32">
         <h1 className="mx-auto max-w-4xl text-center text-3xl font-bold tracking-tight text-primary sm:text-6xl">
-          Sora AI Video Showcase
+          SoraAI视频示例
         </h1>
         <h2 className="mx-auto mt-2 max-w-xl text-center text-xl leading-8 text-gray-300">
-          Made With Sora AI Video Generator
+          用SoraAI制作视频
         </h2>
 
         {video && (
@@ -109,7 +109,7 @@ export default async function ({ params }: { params: { uuid: string } }) {
 
       <div className="relative isolate overflow-hidden bg-gray-900 px-2 py-4 shadow-2xl sm:rounded-3xl sm:px-12 xl:py-12">
         <h2 className="mx-auto mt-2 max-w-xl text-center text-xl leading-8 text-gray-300">
-          More AI Video Showcases
+          更多视频示例
         </h2>
 
         <Videos videos={videos} />
