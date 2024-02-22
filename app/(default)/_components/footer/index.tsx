@@ -7,7 +7,7 @@ export default function () {
         <div className="lg:flex lg:flex-row lg:justify-between">
           <div>
             <a href="https://sora.fm" className="inline-block max-w-full">
-              Sora.FM
+              Sora.Video
             </a>
             <p className="font-inter mt-4 max-w-[350px] text-base font-light text-gray-500">
               Sora AI Video Generator
@@ -82,11 +82,11 @@ export default function () {
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">CREDIT TO</div>
               <a
-                href="https://sora.fm"
+                href="https://sora.xiaobingkj.com"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora.FM
+                Sora.Video
               </a>
             </div>
           </div>
@@ -96,11 +96,11 @@ export default function () {
               <p className="font-inter ml-4 text-black">
                 <img
                   src={
-                    "https://zknown-1251007641.cos.ap-guangzhou.myqcloud.com/images/20240221231807.png"
+                    "http://img.app.xiaobingkj.com/qrcode_for_gh_ea31060c8dbb_258.jpg"
                   }
                   alt="qrcode"
-                  width={"250"}
-                  height={"400"}
+                  width={"258"}
+                  height={"258"}
                   className="rounded-md"
                 />
               </p>
@@ -111,8 +111,8 @@ export default function () {
         <div>
           <p className="font-inter lg: text-center text-sm text-gray-500">
             © Copyright 2024.{" "}
-            <a href="https://sora.fm" target="_blank" className="text-primary">
-              Sora.FM
+            <a href="https://sora.xiaobingkj.com" target="_blank" className="text-primary">
+              Sora.Video
             </a>{" "}
             All rights reserved.
           </p>
