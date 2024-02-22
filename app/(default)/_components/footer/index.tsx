@@ -6,7 +6,7 @@ export default function () {
       <div className="w-screen flex-col bg-black px-6 py-20 text-white lg:flex lg:px-10 xl:px-24">
         <div className="lg:flex lg:flex-row lg:justify-between">
           <div>
-            <a href="https://sora.fm" className="inline-block max-w-full">
+            <a href="https://sora.xiaobingkj.com" className="inline-block max-w-full">
               Sora.Video
             </a>
             <p className="font-inter mt-4 max-w-[350px] text-base font-light text-gray-500">
@@ -96,7 +96,7 @@ export default function () {
               <p className="font-inter ml-4 text-black">
                 <img
                   src={
-                    "http://img.app.xiaobingkj.com/qrcode_for_gh_ea31060c8dbb_258.jpg"
+                    "https://raw.githubusercontent.com/fandongtongxue/sorafm/main/qrcode_for_gh_ea31060c8dbb_258.jpg"
                   }
                   alt="qrcode"
                   width={"258"}
