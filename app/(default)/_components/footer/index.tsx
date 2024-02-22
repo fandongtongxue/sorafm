@@ -49,7 +49,7 @@ export default function () {
               </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
-              <div className="font-inter font-medium">FRIENDS</div>
+              <div className="font-inter font-medium">我们的产品</div>
               <a
                 href="https://giteer.app.xiaobingkj.com"
                 target="_blank"
